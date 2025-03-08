@@ -62,10 +62,10 @@ Grade: B
 
 
 ## 🏆 Future Improvements
-1 → Add support for grade point system (GPA/CGPA).
-2 → Implement GUI version for better user experience.
-3 → Store student records using a database.
-4 → Provide custom grading scales.
+- `1` →Add support for grade point system (GPA/CGPA).
+- `2` → Implement GUI version for better user experience.
+- `3` →Store student records using a database.
+- `4` → Provide custom grading scales.
 
 
 ## 📬 Contact
